@@ -17,7 +17,7 @@ public class Main {
      * 
      */
     public static void main(String[] args) {
-        professore1 prof1 = new professore1("rossi", "matematica");//costruttore prof1 dove gli passo il cognome e la materia
+        professore1 prof1 = new professore1("rossi", "matematica");//costruttoree prof1 dove gli passo il cognome e la materia
         System.out.println(prof1);//stampa tramite toString
         
         professore2 prof2 = new professore2("torsello", "informatica");//costruttore prof2 dove gli passo il cognome e la materia
